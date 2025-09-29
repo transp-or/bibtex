@@ -963,6 +963,7 @@ FUNCTION {phdthesis}
   address output
   new.block
   note output
+  format.doi output
   fin.entry
   write.url
 }
